@@ -1,0 +1,14 @@
+{
+	"name": "spell-checker/dictionary-ru",
+	"type": "library",
+	"description": "Russian dictionary for spell-checker and PhpStorm/InteliJ",
+	"homepage": "https://github.com/spell-checker/dictionary-ru",
+	"license": ["0BSD"],
+	"authors": [
+		{
+			"name": "Vlasta Neubauer",
+			"homepage": "http://www.paranoiq.cz"
+		}
+	],
+	"require": {}
+}
